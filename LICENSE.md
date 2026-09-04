@@ -1,9 +1,7 @@
-`
-Copyright (c) 2026 Netrunner Games. All Rights Reserved.
+𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 (𝚌) 𝟸0𝟸𝟼 𝙽𝚎𝚝𝚛𝚞𝚗𝚗𝚎𝚛 𝙶𝚊𝚖𝚎𝚜. 𝙰𝚕𝚕 𝚁𝚒𝚐𝚑𝚝𝚜 𝚁𝚎𝚜𝚎𝚛𝚟𝚎𝚍.
 
-This repository and its source code are made available for viewing and reference 
-purposes only. Except as permitted by GitHub's Terms of Service for viewing and 
-forking within GitHub, no permission is granted to copy, modify, merge, publish, 
-distribute, sublicense, or sell any portion of this software without express written 
-permission from the copyright holder.
-`
+𝚃𝚑𝚒𝚜 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢 𝚊𝚗𝚍 𝚒𝚝𝚜 𝚜𝚘𝚞𝚛𝚌𝚎 𝚌𝚘𝚍𝚎 𝚊𝚛𝚎 𝚖𝚊𝚍𝚎 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚊𝚗𝚍 𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎 
+𝚙𝚞𝚛𝚙𝚘𝚜𝚎𝚜 𝚘𝚗𝚕𝚢. 𝙴𝚡𝚌𝚎𝚙𝚝 𝚊𝚜 𝚙𝚎𝚛𝚖𝚒𝚝𝚝𝚎𝚍 𝚋𝚢 𝙶𝚒𝚝𝙷𝚞𝚋'𝚜 𝚃𝚎𝚛𝚖𝚜 𝚘𝚏 𝚂𝚎𝚛𝚟𝚒𝚌𝚎 𝚏𝚘𝚛 𝚟𝚒𝚎𝚠𝚒𝚗𝚐 𝚊𝚗𝚍 
+𝚏𝚘𝚛𝚔𝚒𝚗𝚐 𝚠𝚒𝚝𝚑𝚒𝚗 𝙶𝚒𝚝𝙷𝚞𝚋, 𝚗𝚘 𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚒𝚜 𝚐𝚛𝚊𝚗𝚝𝚎𝚍 𝚝𝚘 𝚌𝚘𝚙𝚢, 𝚖𝚘𝚍𝚒𝚏𝚢, 𝚖𝚎𝚛𝚐𝚎, 𝚙𝚞𝚋𝚕𝚒𝚜𝚑, 
+𝚍𝚒𝚜𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚜𝚞𝚋𝚕𝚒𝚌𝚎𝚗𝚜𝚎, 𝚘𝚛 𝚜𝚎𝚕𝚕 𝚊𝚗𝚢 𝚙𝚘𝚛𝚝𝚒𝚘𝚗 𝚘𝚏 𝚝𝚑𝚒𝚜 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚠𝚒𝚝𝚑𝚘𝚞𝚝 𝚎𝚡𝚙𝚛𝚎𝚜𝚜 𝚠𝚛𝚒𝚝𝚝𝚎𝚗 
+𝚙𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 𝚑𝚘𝚕𝚍𝚎𝚛.
